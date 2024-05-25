@@ -1,0 +1,18 @@
+{
+  "name": "expresssandbox",
+  "version": "1.0.0",
+  "description": "just a sandbox for playing with express backends",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "sandbox"
+  ],
+  "author": "tony diethelm",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
