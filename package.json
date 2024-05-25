@@ -4,7 +4,8 @@
   "description": "just a sandbox for playing with express backends",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node express.js"
   },
   "keywords": [
     "express",
